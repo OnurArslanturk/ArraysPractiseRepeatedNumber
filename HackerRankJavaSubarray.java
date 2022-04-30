@@ -5,6 +5,7 @@ import java.math.*;
 import java.util.regex.*;
 import java.util.Arrays;
 public class HackerRankJavaSubarray {
+
     public static void main(String[] args) {
         int[] arr;
         Scanner inp = new Scanner(System.in);
